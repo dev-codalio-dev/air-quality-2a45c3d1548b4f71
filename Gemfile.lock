@@ -442,7 +442,7 @@ GEM
     responders (3.1.1)
       actionpack (>= 5.2)
       railties (>= 5.2)
-    rexml (3.3.9)
+    rexml (3.4.2)
     rgl (0.6.6)
       pairing_heap (>= 0.3, < 4.0)
       rexml (~> 3.2, >= 3.2.4)
@@ -859,7 +859,7 @@ CHECKSUMS
   reline (0.6.0) sha256=57620375dcbe56ec09bac7192bfb7460c716bbf0054dc94345ecaa5438e539d2
   require_all (3.0.0) sha256=937853faa2833388eab551107bf7bf87c6bba6b4800bac5ce469eda7b6a9fed0
   responders (3.1.1) sha256=92f2a87e09028347368639cfb468f5fefa745cb0dc2377ef060db1cdd79a341a
-  rexml (3.3.9) sha256=d71875b85299f341edf47d44df0212e7658cbdf35aeb69cefdb63f57af3137c9
+  rexml (3.4.2) sha256=1384268554a37af5da5279431ca3f2f37d46f09ffdd6c95e17cc84c83ea7c417
   rgl (0.6.6) sha256=2611d75509bcf31be2955c0a14b063c7a198dabba3e95b6a67c8653bd30c5136
   rhino_project (0.25.0.beta.17) sha256=6d61dc27508a115b394674a7b24ba09fae51665f69defad5b5a693801b8db1f3
   rhino_project_core (0.25.0.beta.17) sha256=73eb9e5884da26fbb5da33a7c621afa731a732b3040fc9807045fcac18a19dee
